@@ -1,0 +1,9 @@
+/node_modules
+/view
+certificate.ejs
+index.js
+package.json
+package-lock.json
+certificates_urls.json
+/certificate-generator
+index.html
